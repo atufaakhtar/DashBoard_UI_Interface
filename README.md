@@ -2,15 +2,15 @@ This is a next.js RBAC dashboard
 ## Getting Started
 
 Install all the dependencies using -
-'''bash'''
+```bash
 npm install
-
+```
 If you find any error use-
-'''bash'''
+```bash
 npm audit fix
-
+# or
 npm audit fix --force
-
+```
 Then, run the development server:
 
 ```bash
